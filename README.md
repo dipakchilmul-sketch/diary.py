@@ -60,4 +60,4 @@ Strings, files, functions, lists, and try/except.
 
 ## Author
 
-[Dipak Chilmul], BCA, [REF 26-02287]
+[Dipak Chilmul], BCA, [REF No.- RU-26-02287]
