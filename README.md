@@ -61,3 +61,5 @@ Strings, files, functions, lists, and try/except.
 ## Author
 
 [Dipak Chilmul], BCA, [REF No.- RU-26-02287]
+
+*Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
